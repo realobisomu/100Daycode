@@ -31,14 +31,14 @@
 
 # Day 1 - Project
 
-# print('Welcome to Band Name Picker')
+print('Welcome to Band Name Picker')
 
-# cityInput = input('Enter city you grow up in :\n  ')
-# petName= input('Enter Pet name :\n ')
+cityInput = input('Enter city you grow up in :\n  ')
+petName= input('Enter Pet name :\n ')
 
-# bandName = cityInput + " " + petName
+bandName = cityInput + " " + petName
 
-# print(f'Your band name is {bandName}')
+print(f'Your band name is {bandName}')
 
 
 
